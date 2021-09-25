@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/event_back">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/ic_back"/>
+        <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="18dp"
+                android:layout_centerInParent="true"
+                android:text="Ajouter un livre"/>
+    </RelativeLayout>
+
+    <EditText
+            android:id="@+id/text_input_quest1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="50dp"
+            android:hint="Question1"
+            android:background="@drawable/rect_round_corner_white_light_gray_boader"
+            android:inputType="textEmailAddress"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/colorIcons" />
+    <EditText
+            android:id="@+id/text_input_quest2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="Question2"
+            android:background="@drawable/rect_round_corner_white_light_gray_boader"
+            android:inputType="textEmailAddress"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/colorIcons" />
+    <EditText
+            android:id="@+id/text_input_quest3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="Question3"
+            android:background="@drawable/rect_round_corner_white_light_gray_boader"
+            android:inputType="textEmailAddress"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/colorIcons" />
+    <EditText
+            android:id="@+id/text_input_quest4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="Question4"
+            android:background="@drawable/rect_round_corner_white_light_gray_boader"
+            android:inputType="textEmailAddress"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/colorIcons" />
+    <EditText
+            android:id="@+id/text_input_quest5"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="20dp"
+            android:hint="Question5"
+            android:background="@drawable/rect_round_corner_white_light_gray_boader"
+            android:inputType="textEmailAddress"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/colorIcons" />
+
+    <Button
+            android:id="@+id/btnSuiv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_black_white_border"
+            android:text="Suivant"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white" />
+
+</LinearLayout>

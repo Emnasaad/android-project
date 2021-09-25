@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/ic_back"/>
+        <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="18dp"
+                android:layout_centerInParent="true"
+                android:text="list des répances"/>
+    </RelativeLayout>
+    <androidx.cardview.widget.CardView
+            android:id="@+id/card1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="@android:color/darker_gray"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="15dp">
+        <com.wajahatkarim3.easyflipview.EasyFlipView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/flipView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:flipDuration="400"
+                app:flipType="horizontal"
+                app:flipEnabled="true"
+                app:flipOnTouch="false">
+            <!-- Back Layout Goes Here -->
+
+            <include layout="@layout/content_detail_back"/>
+
+            <include layout="@layout/content_detail_front" />
+
+            <!-- Front Layout Goes Here -->
+
+        </com.wajahatkarim3.easyflipview.EasyFlipView>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/card2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            app:cardBackgroundColor="@android:color/darker_gray"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="15dp">
+        <com.wajahatkarim3.easyflipview.EasyFlipView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/flipView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:flipDuration="400"
+                app:flipType="horizontal"
+                app:flipEnabled="true"
+                app:flipOnTouch="false">
+            <!-- Back Layout Goes Here -->
+
+            <include layout="@layout/content_detail_back"/>
+
+            <include layout="@layout/content_detail_front" />
+
+            <!-- Front Layout Goes Here -->
+
+        </com.wajahatkarim3.easyflipview.EasyFlipView>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+            android:id="@+id/card3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            app:cardBackgroundColor="@android:color/darker_gray"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="15dp">
+        <com.wajahatkarim3.easyflipview.EasyFlipView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/flipView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:flipDuration="400"
+                app:flipType="horizontal"
+                app:flipEnabled="true"
+                app:flipOnTouch="false">
+            <!-- Back Layout Goes Here -->
+
+            <include layout="@layout/content_detail_back"/>
+
+            <include layout="@layout/content_detail_front" />
+
+            <!-- Front Layout Goes Here -->
+
+        </com.wajahatkarim3.easyflipview.EasyFlipView>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+            android:id="@+id/card4"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            app:cardBackgroundColor="@android:color/darker_gray"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="15dp">
+        <com.wajahatkarim3.easyflipview.EasyFlipView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/flipView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:flipDuration="400"
+                app:flipType="horizontal"
+                app:flipEnabled="true"
+                app:flipOnTouch="false">
+            <!-- Back Layout Goes Here -->
+
+            <include layout="@layout/content_detail_back"/>
+
+            <include layout="@layout/content_detail_front" />
+
+            <!-- Front Layout Goes Here -->
+
+        </com.wajahatkarim3.easyflipview.EasyFlipView>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+            android:id="@+id/card5"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            app:cardBackgroundColor="@android:color/darker_gray"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="15dp">
+        <com.wajahatkarim3.easyflipview.EasyFlipView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/flipView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:flipDuration="400"
+                app:flipType="horizontal"
+                app:flipEnabled="true"
+                app:flipOnTouch="false">
+            <!-- Back Layout Goes Here -->
+
+            <include layout="@layout/content_detail_back"/>
+
+            <include layout="@layout/content_detail_front" />
+
+            <!-- Front Layout Goes Here -->
+
+        </com.wajahatkarim3.easyflipview.EasyFlipView>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
+</ScrollView>

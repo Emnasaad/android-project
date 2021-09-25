@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c0fbe37723ed78e0c82004e1072a8d2d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d10bc9a00b98b3688c6ef1493f72cbef\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\215c9e5d9587b38ae350137b7bb58e9c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\b857e0736bef1ba9a2efc5396c0cef96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db4d39285f74e2454ac6d56d4b984753\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d46a70d1a83c3225d88108eb92240a65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\8941bf53f2430009492ec05868242349\AndroidManifest.xml:17:1-22:12
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2e257f374e62f6783de5417594631bb9\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:15:1-26:12
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\13c23632e91858c9558222d2f95fb5cd\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\bacc1aa3d7917a6c1622954e47b4625f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\8d032cf69295554f3927e881481ff5c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\ee00d5c8a9e7aef40bb2043e13620944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\1ab1d8c9e81ac025b943562c5568a6f8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\97fbce7df68214a36066d6b5b831cbd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\366fb0f0ad7874c6228792595cdda2ef\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5156ab0830714d8104e26df674d027e9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\6b53d5dc49ad723c9ad3ccccc6bdee9e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\ebdaea909de680854fe46c1cdc4b930c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\f62cc36b79d2db8e3cb2243e720ab68b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4cf1389ca2e1356437b0038081598974\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\cb0de15945d378242a0abdeb58e74fed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\cc7532e4c990564e2bc13955844499a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\b1855b24a13fbfb10b87151eb8a5178a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\9ba2ae2b6955fa8d107c41401b088543\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4fef29e4b5b9e70dce533781e8a6f139\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4f04a6b43ed71069396233e7e5b3ba19\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\a588ac88cf27c1fd76a357a5dbb72011\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\acf4a0daf8769c8e8de630628500b7ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\351c5ba3e6356a3d9e54c3e83ab4303f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\154016d22eea89b93a0779f913813c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0b23b6f931e67a670df24b1d6f5babaf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\bb500293af4a4019c4612a9de7901af0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0494e124ca0f5cce848b59a9a7308a85\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\18d38c7ff546c0280febe2952b1686f8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\50dc75e1b49f9c7f62fbcc9eb8e910a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\101633b61b34f7e75e462d8239920385\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db878d46b9c0a1a4b3710bfb9a5cb038\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\889787794652191adb75022bfef1f0a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c6c77d56ff0ffe2eb2209ec67e33c51b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\700eb5e0a275b839d7ebe5cf042f79e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d274bcbf7003ce7cfa6f5b4bb994e789\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d7e57efeb4ec2074d7cf78cae98f76f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c4f0292534743a975b36a15e5df44284\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\a5274d82f086b682d3b82f90145d40fd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5016f2e6538cffffb805c90bc48574b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\e9461ca26419ed2406b0b2b75c436f39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\01df1549f21b33a61d1440b969585dc7\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:3:58-86
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:8:5-33:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c0fbe37723ed78e0c82004e1072a8d2d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c0fbe37723ed78e0c82004e1072a8d2d\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\215c9e5d9587b38ae350137b7bb58e9c\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\215c9e5d9587b38ae350137b7bb58e9c\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db4d39285f74e2454ac6d56d4b984753\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db4d39285f74e2454ac6d56d4b984753\AndroidManifest.xml:9:5-20
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2e257f374e62f6783de5417594631bb9\AndroidManifest.xml:11:5-13:38
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2e257f374e62f6783de5417594631bb9\AndroidManifest.xml:11:5-13:38
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\366fb0f0ad7874c6228792595cdda2ef\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\366fb0f0ad7874c6228792595cdda2ef\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5156ab0830714d8104e26df674d027e9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5156ab0830714d8104e26df674d027e9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0494e124ca0f5cce848b59a9a7308a85\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0494e124ca0f5cce848b59a9a7308a85\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\18d38c7ff546c0280febe2952b1686f8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\18d38c7ff546c0280febe2952b1686f8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0494e124ca0f5cce848b59a9a7308a85\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:11:13-45
+	tools:ignore
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:14:45-84
+	android:roundIcon
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:10:13-42
+	android:allowBackup
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:14:13-44
+activity#com.example.biblio.activity.SplashScreen
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:15:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.biblio.activity.WelcomeActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:22:9-71
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:22:19-59
+activity#com.example.biblio.activity.Inscrir
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:23:9-63
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.example.biblio.activity.Seconnecte
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:24:9-66
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:24:19-54
+activity#com.example.biblio.activity.MainActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:25:19-56
+activity#com.example.biblio.activity.BookActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:26:19-56
+activity#com.example.biblio.activity.FileActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:27:9-68
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:27:19-56
+activity#com.example.biblio.activity.ReponseUser
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:28:9-67
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:28:19-55
+activity#com.example.biblio.activity.QuestActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:29:19-57
+activity#com.example.biblio.activity.RepanceActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:30:19-59
+activity#com.example.biblio.activity.ReadRespanceActivity
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:31:9-66
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:31:19-64
+activity#com.example.biblio.activity.QestionUser
+ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:32:9-57
+	android:name
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml:32:19-55
+uses-sdk
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c0fbe37723ed78e0c82004e1072a8d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c0fbe37723ed78e0c82004e1072a8d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d10bc9a00b98b3688c6ef1493f72cbef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d10bc9a00b98b3688c6ef1493f72cbef\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\215c9e5d9587b38ae350137b7bb58e9c\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\215c9e5d9587b38ae350137b7bb58e9c\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\b857e0736bef1ba9a2efc5396c0cef96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\b857e0736bef1ba9a2efc5396c0cef96\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db4d39285f74e2454ac6d56d4b984753\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db4d39285f74e2454ac6d56d4b984753\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d46a70d1a83c3225d88108eb92240a65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d46a70d1a83c3225d88108eb92240a65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\8941bf53f2430009492ec05868242349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\8941bf53f2430009492ec05868242349\AndroidManifest.xml:20:5-44
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2e257f374e62f6783de5417594631bb9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2e257f374e62f6783de5417594631bb9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:19:5-21:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\13c23632e91858c9558222d2f95fb5cd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\13c23632e91858c9558222d2f95fb5cd\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\bacc1aa3d7917a6c1622954e47b4625f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\bacc1aa3d7917a6c1622954e47b4625f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\8d032cf69295554f3927e881481ff5c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\8d032cf69295554f3927e881481ff5c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\ee00d5c8a9e7aef40bb2043e13620944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\ee00d5c8a9e7aef40bb2043e13620944\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\1ab1d8c9e81ac025b943562c5568a6f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\1ab1d8c9e81ac025b943562c5568a6f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\97fbce7df68214a36066d6b5b831cbd2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\97fbce7df68214a36066d6b5b831cbd2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\366fb0f0ad7874c6228792595cdda2ef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\366fb0f0ad7874c6228792595cdda2ef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5156ab0830714d8104e26df674d027e9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5156ab0830714d8104e26df674d027e9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\6b53d5dc49ad723c9ad3ccccc6bdee9e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\6b53d5dc49ad723c9ad3ccccc6bdee9e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\ebdaea909de680854fe46c1cdc4b930c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\ebdaea909de680854fe46c1cdc4b930c\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\f62cc36b79d2db8e3cb2243e720ab68b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\f62cc36b79d2db8e3cb2243e720ab68b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4cf1389ca2e1356437b0038081598974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4cf1389ca2e1356437b0038081598974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\cb0de15945d378242a0abdeb58e74fed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\cb0de15945d378242a0abdeb58e74fed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\cc7532e4c990564e2bc13955844499a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\cc7532e4c990564e2bc13955844499a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\b1855b24a13fbfb10b87151eb8a5178a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\b1855b24a13fbfb10b87151eb8a5178a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\9ba2ae2b6955fa8d107c41401b088543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\9ba2ae2b6955fa8d107c41401b088543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4fef29e4b5b9e70dce533781e8a6f139\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4fef29e4b5b9e70dce533781e8a6f139\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4f04a6b43ed71069396233e7e5b3ba19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\4f04a6b43ed71069396233e7e5b3ba19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\a588ac88cf27c1fd76a357a5dbb72011\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\a588ac88cf27c1fd76a357a5dbb72011\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\acf4a0daf8769c8e8de630628500b7ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\acf4a0daf8769c8e8de630628500b7ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\351c5ba3e6356a3d9e54c3e83ab4303f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\351c5ba3e6356a3d9e54c3e83ab4303f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\154016d22eea89b93a0779f913813c7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\154016d22eea89b93a0779f913813c7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0b23b6f931e67a670df24b1d6f5babaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0b23b6f931e67a670df24b1d6f5babaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\bb500293af4a4019c4612a9de7901af0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\bb500293af4a4019c4612a9de7901af0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0494e124ca0f5cce848b59a9a7308a85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\0494e124ca0f5cce848b59a9a7308a85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\18d38c7ff546c0280febe2952b1686f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\18d38c7ff546c0280febe2952b1686f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\50dc75e1b49f9c7f62fbcc9eb8e910a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\50dc75e1b49f9c7f62fbcc9eb8e910a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\101633b61b34f7e75e462d8239920385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\101633b61b34f7e75e462d8239920385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db878d46b9c0a1a4b3710bfb9a5cb038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\db878d46b9c0a1a4b3710bfb9a5cb038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\889787794652191adb75022bfef1f0a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\889787794652191adb75022bfef1f0a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c6c77d56ff0ffe2eb2209ec67e33c51b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c6c77d56ff0ffe2eb2209ec67e33c51b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\700eb5e0a275b839d7ebe5cf042f79e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\700eb5e0a275b839d7ebe5cf042f79e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d274bcbf7003ce7cfa6f5b4bb994e789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d274bcbf7003ce7cfa6f5b4bb994e789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d7e57efeb4ec2074d7cf78cae98f76f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\d7e57efeb4ec2074d7cf78cae98f76f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c4f0292534743a975b36a15e5df44284\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\c4f0292534743a975b36a15e5df44284\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\a5274d82f086b682d3b82f90145d40fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\a5274d82f086b682d3b82f90145d40fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5016f2e6538cffffb805c90bc48574b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\5016f2e6538cffffb805c90bc48574b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\e9461ca26419ed2406b0b2b75c436f39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\e9461ca26419ed2406b0b2b75c436f39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\01df1549f21b33a61d1440b969585dc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\01df1549f21b33a61d1440b969585dc7\AndroidManifest.xml:20:5-44
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		ADDED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\biblio-20191019T231230Z-001\biblio\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\17e675abd87bee6dc4435166f0b65ed9\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2eb655b529afa8ad2247a051f6ec3b27\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2b459b2d11f8b94f7efa89c8e714866c\AndroidManifest.xml:22:22-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\46b753eb1b2d0fcf86b07b1a6b241470\AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\55506a51bef6be8f6e46b09414945845\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\2615a506a6a1f3df35ab868c26fc9d72\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\AMENA\.gradle\caches\transforms-2\files-2.1\dded9dfed0b6d92bd2b4d18a9680bd41\AndroidManifest.xml:24:13-58

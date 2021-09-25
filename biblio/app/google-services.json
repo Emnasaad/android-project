@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796480637207",
+    "firebase_url": "https://biblioproject-ceab5.firebaseio.com",
+    "project_id": "biblioproject-ceab5",
+    "storage_bucket": "biblioproject-ceab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796480637207:android:660371821d31297cdc4f52",
+        "android_client_info": {
+          "package_name": "com.example.biblio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796480637207-okqg778o9kiarmh9cp67pcp2n1nhj3dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biblio",
+            "certificate_hash": "74d8c91c9678839f28b0c6f1ad45ae8dd0d9e117"
+          }
+        },
+        {
+          "client_id": "796480637207-i5u9koos7mvp0899mrslivjtl35psgr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGNJ6_kr9v-W30epSZi4N9hceceiwLV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796480637207-i5u9koos7mvp0899mrslivjtl35psgr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

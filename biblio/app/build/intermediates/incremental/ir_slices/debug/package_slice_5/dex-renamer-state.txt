@@ -1,0 +1,4 @@
+#Sun Jan 10 15:21:55 CET 2021
+base.0=D\:\\biblio-20191019T231230Z-001\\biblio\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

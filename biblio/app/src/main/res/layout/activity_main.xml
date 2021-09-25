@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/event_back">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/ic_exit"/>
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="18dp"
+                android:layout_centerInParent="true"
+                android:text="Ajouter un livre"/>
+        </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:id="@+id/id_frame"
+                android:layout_width="190dp"
+                android:layout_height="180dp"
+                android:layout_alignParentTop="true"
+                android:layout_below="@+id/rl_set"
+                android:layout_gravity="center"
+                android:layout_marginTop="60dp"
+                android:clickable="true">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/id_img_profile"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/img_book" />
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_user_image"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:src="@mipmap/ic_edit" />
+            </FrameLayout>
+
+                <EditText
+                    android:id="@+id/text_input_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:hint="Titre"
+                    android:background="@drawable/rect_round_corner_white_light_gray_boader"
+                    android:inputType="textEmailAddress"
+                    android:paddingBottom="2dp"
+                    android:paddingTop="2dp"
+                    android:textColor="@android:color/black"
+                    android:textColorHint="@color/colorIcons" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp">
+                <TextView
+                        android:id="@+id/tv_file"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                        android:visibility="gone"
+                    android:textColor="@android:color/white"
+                    android:layout_centerVertical="true"
+                    android:text="aucun fichier exist"/>
+                <Button
+                        android:id="@+id/btn_choose"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/btn_black_white_border"
+                    android:text="Choisir une fichier"/>
+            </RelativeLayout>
+
+
+            <Button
+                    android:id="@+id/btn"
+                    android:text="Upload"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/btn_black_white_border"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    />
+            <Button
+                    android:id="@+id/buttonUpload"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/btn_black_white_border"
+                    android:text="Suivant"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white" />
+            <ProgressBar
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/progressBar"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+    </RelativeLayout>
